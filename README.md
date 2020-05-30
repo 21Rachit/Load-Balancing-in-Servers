@@ -7,6 +7,10 @@ Now if the number of clients are below the threshold value, then one server can 
 But if clients count increases we have to make copies of the server, 
 but problem is how to decide which server to send the request and how much requests count  it can handle at a time.
 
+
+Techniques to be used :
+
+
 Multithreading (multiple clients can make request at the same time).
 
 CPU Scheduling (There will be many requests/processes so we have prioritize them using scheduling algorithm)

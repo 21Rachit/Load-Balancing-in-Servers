@@ -19,8 +19,6 @@ Multithreading (multiple clients can make request at the same time).
 
 CPU Scheduling (There will be many requests/processes so we have prioritize them using scheduling algorithm)
 
-Server Scheduling (There will be multiple servers in our program, we have to make sure if load on a server increases, different server should be handling those requests)
-
 MySql Database( to store the content in a organized and easily retrievable manner)
 
 

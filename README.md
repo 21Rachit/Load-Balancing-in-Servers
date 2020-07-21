@@ -19,6 +19,8 @@ Multithreading (multiple clients can make request at the same time).
 
 CPU Scheduling (There will be many requests/processes so we have prioritize them using scheduling algorithm)
 
+Server Scheduling (Least Connection Method Algorithm )
+
 MySql Database( to store the content in a organized and easily retrievable manner)
 
 
